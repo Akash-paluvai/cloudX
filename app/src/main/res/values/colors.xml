@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+
+<style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+    <item name="android:windowBackground">@color/splash_background</item>
+    <item name="android:windowFullscreen">true</item>
+    <item name="android:windowTranslucentStatus">true</item>
+</style>
+
+
+
+
+<color name="white_70">#B3FFFFFF</color>
+<color name="light_blue">#64B5F6</color>
+<color name="splash_background">#1E1E1E</color>
+
+<color name="sunny_start">#4CA1AF</color>
+<color name="sunny_end">#C4E0E5</color>
+
+<color name="rainy_start">#2C3E50</color>
+<color name="rainy_end">#3498DB</color>
+
+
+
+<color name="cloudy_start">#757F9A</color>
+<color name="cloudy_end">#D7DDE8</color>
+
+    <color name="night_start">#0D47A1</color>
+    <color name="night_end">#1E88E5</color>
+
+    <color name="thunderstorm_start">#232526</color>
+<color name="thunderstorm_end">#414345</color>
+
+<color name="snow_start">#E6DADA</color>
+<color name="snow_end">#274046</color>
+
+<color name="mist_start">#606c88</color>
+<color name="mist_end">#3f4c6b</color>
+
+<color name="temp_hot">#FF5252</color>
+<color name="temp_warm">#FFB74D</color>
+<color name="temp_mild">#81C784</color>
+<color name="temp_cool">#64B5F6</color>
+<color name="temp_cold">#90CAF9</color>
+
+
+<color name="text_primary">#212121</color>
+<color name="text_secondary">#757575</color>
+<color name="divider">#BDBDBD</color>
+<color name="card_background">#FFFFFF</color>
+<color name="card_shadow">#20000000</color>
+
+
+<color name="alert_high">#F44336</color>
+<color name="alert_medium">#FFA726</color>
+<color name="alert_low">#66BB6A</color>
+
+
+<color name="precip_high">#0D47A1</color>
+<color name="precip_medium">#1976D2</color>
+<color name="precip_low">#42A5F5</color>
+<color name="precip_none">#BBDEFB</color>
+
+
+<color name="wind_strong">#DD2C00</color>
+<color name="wind_moderate">#FF6D00</color>
+<color name="wind_light">#FFB74D</color>
+<color name="wind_calm">#FFE0B2</color>
+</resources>
